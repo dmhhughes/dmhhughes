@@ -20,6 +20,6 @@
 </p>
 
 ## About Me
-- 💼 I work as a data professional at [Farm Credit Services of America](https://www.fcsamerica.com/)
+- 💼 I work as a data professional in the agriculture finance industry
 - 🏠 I live in Fargo, ND with my wife and our 🐶
 - 💪 I enjoy working out and finding new ways to exercise
