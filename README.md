@@ -20,6 +20,6 @@
 </p>
 
 ## About Me
-- 💼 I work as a data scientist at Ketchbrook Analytics
+- 💼 I work as a data scientist at [Ketchbrook Analytics](https://www.ketchbrookanalytics.com/)
 - 🏠 I live in Fargo, ND with my wife and our 🐶
 - 💪 I enjoy working out and finding new ways to exercise
